@@ -10,6 +10,7 @@ public class Main {
             System.out.println("Digite um nome: ");
             var name = sc.next();
 
+            System.out.printf("Olá %s\n", name);
         }
     }
 }
