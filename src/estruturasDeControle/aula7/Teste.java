@@ -1,4 +1,4 @@
-package fundamentos.aula7;
+package estruturasDeControle.aula7;
 import java.util.Scanner;
 
 public class Teste {

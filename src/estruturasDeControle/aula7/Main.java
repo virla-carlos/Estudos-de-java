@@ -1,4 +1,4 @@
-package fundamentos.aula7;
+package estruturasDeControle.aula7;
 import java.util.Scanner;
 
 public class Main {
@@ -11,6 +11,7 @@ public class Main {
             var name = sc.next();
 
             System.out.printf("Olá %s\n", name);
+            if (name.equalsIgnoreCase("exit")) break;
         }
     }
 }

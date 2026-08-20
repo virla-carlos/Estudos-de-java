@@ -1,4 +1,4 @@
-package fundamentos.aula5;
+package estruturasDeControle.aula5;
 import java.util.Scanner;
 
 public class Teste {
@@ -19,5 +19,7 @@ public class Teste {
         var message = canDrive ?
                 name + ", você pode dirigir \n":
                 name + ", você não pode dirigir \n";
+
+        System.out.println(message);
     }
 }
