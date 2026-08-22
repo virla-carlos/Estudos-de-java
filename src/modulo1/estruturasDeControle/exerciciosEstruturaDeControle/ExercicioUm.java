@@ -1,4 +1,4 @@
-package estruturasDeControle.exerciciosEstruturaDeControle;
+package modulo1.estruturasDeControle.exerciciosEstruturaDeControle;
 import java.util.Scanner;
 
 // Escreva um código onde o usuário entra com um número e seja gerado a tabuada de 1 até 10 desse número

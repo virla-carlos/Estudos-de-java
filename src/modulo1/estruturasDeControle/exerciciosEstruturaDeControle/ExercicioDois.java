@@ -1,4 +1,4 @@
-package estruturasDeControle.exerciciosEstruturaDeControle;
+package modulo1.estruturasDeControle.exerciciosEstruturaDeControle;
 
 /*
 * Escreva um código onde o usuário entra com sua altura e peso, seja feito o cálculo do seu IMC(IMC = peso/(altura * altura)) e seja exibido

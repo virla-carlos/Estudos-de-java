@@ -1,4 +1,4 @@
-package estruturasDeControle.aula5;
+package modulo1.estruturasDeControle.aula5;
 import java.util.Scanner;
 
 public class Main {

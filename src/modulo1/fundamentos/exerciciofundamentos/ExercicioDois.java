@@ -1,4 +1,4 @@
-package fundamentos.exerciciofundamentos;
+package modulo1.fundamentos.exerciciofundamentos;
 
 import java.util.Scanner;
 

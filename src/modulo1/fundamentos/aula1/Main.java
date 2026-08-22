@@ -1,4 +1,4 @@
-package fundamentos.aula1;
+package modulo1.fundamentos.aula1;
 import java.util.Scanner;
 
 public class Main {
